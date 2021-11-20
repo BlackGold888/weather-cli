@@ -1,0 +1,29 @@
+{
+  "name": "blackgold-weather-cli",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Cli program getting weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli-weather",
+    "blackgold-cli"
+  ],
+  "author": "KHAMID AL-AKKHALI",
+  "license": "ISC",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": "",
+    "email": "khamidalakkhali@gmail.com"
+  },
+  "bin": "./index.js",
+  "engines": {
+    "node": ">14"
+  }
+}
